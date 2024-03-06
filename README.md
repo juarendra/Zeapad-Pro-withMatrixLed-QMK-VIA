@@ -14,7 +14,7 @@ Many people use it for help they for Computer Task Like Edithing Vidio or Excel 
 - USB type C
 
 ## Download VIA
-Link Download VIA(Pilih sesuai OS) : https://github.com/the-via/releases/releases
+Link Download VIA(CHOSEE BASED YOUR OS) : https://github.com/the-via/releases/releases
 VIA WEB VERSION : https://usevia.app/
 
 ## Auto Detect VIA
