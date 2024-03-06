@@ -4,7 +4,7 @@
 - STM32F401 as Microcontroller
 - QMK Firmware
 - Support VIA, all key and knob can proggrammed
-- RGB Underglow
+- RGB Matrix
 - 4x Layer 
 - 16x Switch , 3 Knob Encoder and 1 OLED LAyer
 - Hotswap Switch
