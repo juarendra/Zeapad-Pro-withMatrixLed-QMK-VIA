@@ -1,4 +1,6 @@
 # Zeapad-Pro-QMK-VIA
+This is Macropad that have function like keyboard but you can setting/proggrammed every single key with anything you want. This macropad also have feature MACRO, it mean you just need prees a single swith for Combination Key. All Function can be setting in Apps named VIA. Then you can buy it in this [TOKOPEDIA](https://tokopedia.link/nYgWruHWJHb) 
+Many people use it for help they for Computer Task Like Edithing Vidio or Excel Formula shortcut
 
 ## Spesification
 - STM32F401 as Microcontroller
@@ -16,18 +18,19 @@ Link Download VIA(Pilih sesuai OS) : https://github.com/the-via/releases/release
 VIA WEB VERSION : https://usevia.app/
 
 ## Auto Detect VIA
-Device ini sudah autodetect VIA, anda hanya perlu menyiapkan PC dengan koneksi Internet
+this Device can automatically detect on VIA, just need PC with Intercet Connection
 - Connect your macropad to PC
 - Open VIA
 - It will auto detect
 ## load JSON File
+or you can load manually json file like a library for detect this macropad
 - Connect your macropad to PC
 - Open VIA
 - In Tab Setting, enable "Show Design Tab"
 - Open Design Tab
 - Load file with name "zeapad_via_definitions.json" 
 - Open Configure Tab to setting your macropad
-- If nothing happend , do it again from fhw1irst
+- If nothing happend , do it again from first 
 
 ## Preview Hardware
 <p align="center">
@@ -47,8 +50,8 @@ https://github.com/juarendra/Zeapad-Pro-QMK-VIA/assets/43043633/afd7e68e-0a54-4b
 - https://docs.keeb.io/via
 
 ## Cara Setting Knob
-- Untuk melakukan setting di knob perlu memasukan command berupa keycode qmk, Jadi cara nya sama dengan melakuykan setting dengan Any key seperti petunjuk pada link berikut: 
-https://docs.keeb.io/via
+- For Setting Knob you just need enter the command qmk keycode, so the way is same thing with setting for ANY key like in this guide:]
+[GUIDE FOR Setting ANY KEY](https://docs.keeb.io/via)
 
 Here's some examples:
 
