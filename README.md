@@ -35,6 +35,10 @@ Device ini sudah autodetect VIA, anda hanya perlu menyiapkan PC dengan koneksi I
   <img src="DOC/HARDWARE/hw2.jpeg" width="25%" height="25%">
 </p>
 
+## Preview VIA
+
+https://github.com/juarendra/Zeapad-Pro-QMK-VIA/assets/43043633/afd7e68e-0a54-4b18-be12-b96c0f13611a
+
 ## Link Keycode QMK
 - mouse : https://github.com/qmk/qmk_firmware/blob/master/docs/feature_mouse_keys.md
 - keyboard : https://github.com/qmk/qmk_firmware/blob/master/docs/keycodes.md
@@ -55,12 +59,4 @@ Here's some examples:
 - MO(1) - Momentarily turn on layer 1
 - LCA(KC_DEL) - Sends Ctrl-Alt-Del
 - MT(MOD_RSFT, KC_ENT) - Sends Shift if held, Enter if tapped
-
-
-## Preview Hardware
-
-## Preview VIA
-
-https://github.com/juarendra/Zeapad-Pro-QMK-VIA/assets/43043633/afd7e68e-0a54-4b18-be12-b96c0f13611a
-
 
