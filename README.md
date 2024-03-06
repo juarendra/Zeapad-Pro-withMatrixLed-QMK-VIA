@@ -27,7 +27,13 @@ Device ini sudah autodetect VIA, anda hanya perlu menyiapkan PC dengan koneksi I
 - Open Design Tab
 - Load file with name "zeapad_via_definitions.json" 
 - Open Configure Tab to setting your macropad
-- If nothing happend , do it again from first
+- If nothing happend , do it again from fhw1irst
+
+## Preview Hardware
+<p align="center">
+  <img src="DOC/HARDWARE/hw1.jpeg" width="25%" height="25%">
+  <img src="DOC/HARDWARE/hw2.jpeg" width="25%" height="25%">
+</p>
 
 ## Link Keycode QMK
 - mouse : https://github.com/qmk/qmk_firmware/blob/master/docs/feature_mouse_keys.md
