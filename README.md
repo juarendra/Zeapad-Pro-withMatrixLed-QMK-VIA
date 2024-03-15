@@ -72,6 +72,7 @@ Here's some examples:
 <p align="center">
   <img src="DOC/QMK Tollbox Awal.PNG" width="50%" height="50%">
 </p>
+
 - Colok kabel ujung usb type C ke macropad tanpa mencolokannya dahulu ke USB PC anda
 - Tekan dan tahan tombol yang berada di ujung atas kiri. lalu colokan Ujung USB yang sebelum ke USB PC anda sambil tetap menahan tombol sebelum nya sebentar
 - Setelah ada bunyi/notif USB masuk. anda dapat melepaskan tombol knobnya
