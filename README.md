@@ -62,4 +62,19 @@ Here's some examples:
 - MO(1) - Momentarily turn on layer 1
 - LCA(KC_DEL) - Sends Ctrl-Alt-Del
 - MT(MOD_RSFT, KC_ENT) - Sends Shift if held, Enter if tapped
+- MACRO (0) - Macro 0
+
+## Cara Update/Upgrade Firmware
+- Siapkan dahulu macropad, kabel usb dan firmware yang ingin di update/upgrade ke macropad anda
+- Siapkan Firmware yang akan digunakan untuk update/upgrade
+- Download Software QMK Toolbox di [link berikut](https://github.com/qmk/qmk_toolbox/releases)
+- Install Software QMK Toolbox, Install Semua drivernya. setelah siap anda dapat meload Firmware yang seblumnya. Lalu Centang 
+- Colok kabel ujung usb type C ke macropad tanpa mencolokannya dahulu ke USB PC anda
+- Tekan dan tahan tombol yang berada di ujung atas kiri. lalu colokan Ujung USB yang sebelum ke USB PC anda sambil tetap menahan tombol sebelum nya sebentar
+- Setelah ada bunyi/notif USB masuk. anda dapat melepaskan tombol knobnya
+Lalu akan muncul drive baru di "my computer" anda seperti gambar dibawah
+lalu copy file firmware yang sudah di download sebelumnya ke drive baru tersebut
+setelah selesai copynya maka macropad secara otomatis akan tereset
+anda dapat mengetesnya
+
 
