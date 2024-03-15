@@ -70,7 +70,7 @@ Here's some examples:
 - Download Software QMK Toolbox di [link berikut](https://github.com/qmk/qmk_toolbox/releases)
 - Install Software QMK Toolbox, Install Semua drivernya. setelah siap anda dapat meload Firmware yang seblumnya. Lalu Centang Auto-Flash seperti gambar dibawah
 <p align="center">
-  <img src="DOC/QMK Tollbox Awal.PNG.jpeg" width="50%" height="50%">
+  <img src="DOC/QMK Tollbox Awal.PNG.PNG" width="50%" height="50%">
 </p>
 - Colok kabel ujung usb type C ke macropad tanpa mencolokannya dahulu ke USB PC anda
 - Tekan dan tahan tombol yang berada di ujung atas kiri. lalu colokan Ujung USB yang sebelum ke USB PC anda sambil tetap menahan tombol sebelum nya sebentar
