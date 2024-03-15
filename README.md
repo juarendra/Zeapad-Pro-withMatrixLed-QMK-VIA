@@ -68,7 +68,10 @@ Here's some examples:
 - Siapkan dahulu macropad, kabel usb dan firmware yang ingin di update/upgrade ke macropad anda
 - Siapkan Firmware yang akan digunakan untuk update/upgrade
 - Download Software QMK Toolbox di [link berikut](https://github.com/qmk/qmk_toolbox/releases)
-- Install Software QMK Toolbox, Install Semua drivernya. setelah siap anda dapat meload Firmware yang seblumnya. Lalu Centang 
+- Install Software QMK Toolbox, Install Semua drivernya. setelah siap anda dapat meload Firmware yang seblumnya. Lalu Centang Auto-Flash seperti gambar dibawah
+<p align="center">
+  <img src="DOC/QMK Tollbox Awal.PNG.jpeg" width="50%" height="50%">
+</p>
 - Colok kabel ujung usb type C ke macropad tanpa mencolokannya dahulu ke USB PC anda
 - Tekan dan tahan tombol yang berada di ujung atas kiri. lalu colokan Ujung USB yang sebelum ke USB PC anda sambil tetap menahan tombol sebelum nya sebentar
 - Setelah ada bunyi/notif USB masuk. anda dapat melepaskan tombol knobnya
