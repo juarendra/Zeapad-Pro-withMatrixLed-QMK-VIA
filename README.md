@@ -75,9 +75,9 @@ Here's some examples:
 - Colok kabel ujung usb type C ke macropad tanpa mencolokannya dahulu ke USB PC anda
 - Tekan dan tahan tombol yang berada di ujung atas kiri. lalu colokan Ujung USB yang sebelum ke USB PC anda sambil tetap menahan tombol sebelum nya sebentar
 - Setelah ada bunyi/notif USB masuk. anda dapat melepaskan tombol knobnya
-Lalu akan muncul drive baru di "my computer" anda seperti gambar dibawah
-lalu copy file firmware yang sudah di download sebelumnya ke drive baru tersebut
-setelah selesai copynya maka macropad secara otomatis akan tereset
-anda dapat mengetesnya
+- Maka secara otomatis macropad akan terflash. jika selesai maka tampilan QMK toolbox akan seperti gambar dibawah
+<p align="center">
+  <img src="DOC/Selesai Flash QMK Toolbox.PNG" width="50%" height="50%">
+</p>
 
 
