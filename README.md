@@ -64,6 +64,12 @@ Here's some examples:
 - MT(MOD_RSFT, KC_ENT) - Sends Shift if held, Enter if tapped
 - MACRO (0) - Macro 0
 
+## How To use MACRO
+you can read on [this file](https://github.com/juarendra/STREAMPAD-QMK-VIA/blob/main/DOC/MACRO%20VIA%20USAGE.pdf)
+or you can read on this [web](https://www.keychron.com/blogs/archived/how-to-use-via-to-program-your-keyboard)
+or you can see video [youtube](https://youtu.be/GtSeo69Y0Zw)
+
+
 ## Cara Update/Upgrade Firmware
 - Siapkan dahulu macropad, kabel usb dan firmware yang ingin di update/upgrade ke macropad anda
 - Siapkan Firmware yang akan digunakan untuk update/upgrade
