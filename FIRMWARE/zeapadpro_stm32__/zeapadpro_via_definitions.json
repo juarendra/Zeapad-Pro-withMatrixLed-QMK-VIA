@@ -1,5 +1,5 @@
 {
-  "name": "KB16-01",
+  "name": "Zeapad Pro Backlight",
   "vendorId": "0xD010",
   "productId": "0x1601",
   "keycodes": ["qmk_lighting"],
